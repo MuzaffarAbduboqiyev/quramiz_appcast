@@ -4,7 +4,7 @@
         <title>Has update on Quramiz</title>
         <item>
             <title>Version 1.0.0 (bug fixes)</title>
-            <description>New version</description>
+<!--             <description>New version</description> -->
             <sparkle:version>1.0.0</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <enclosure url="https://play.google.com/store/apps/details?id=com.quramiz.sqb.uz.quramiz" sparkle:version="1.0.0"  sparkle:os="android" />
@@ -14,7 +14,7 @@
         </item>
         <item>
                    <title>Version 1.0.4 (bug fixes)</title>
-                   <description>New version</description>
+<!--                    <description>New version</description> -->
                    <sparkle:version>4</sparkle:version>
                    <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
                    <enclosure url="https://apps.apple.com/app/quramiz/id6444784268" sparkle:version="1.0.4"  sparkle:os="iOS"/>
