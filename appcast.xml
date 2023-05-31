@@ -12,6 +12,16 @@
                 <sparkle:criticalUpdate />
             </sparkle:tags>
         </item>
+        <item>
+                   <title>Version 1.0.4 (bug fixes)</title>
+                   <description>New version</description>
+                   <sparkle:version>4</sparkle:version>
+                   <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+                   <enclosure url="https://apps.apple.com/app/quramiz/id6444784268" sparkle:version="1.0.4"  sparkle:os="iOS"/>
+                   <sparkle:tags>
+                       <sparkle:criticalUpdate />
+                   </sparkle:tags>
+               </item>
 
     </channel>
 </rss>
