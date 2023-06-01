@@ -3,7 +3,7 @@
     <channel>
         <title>Has update on Quramiz</title>
         <item>
-            <title>Version 1.0.0(bug fixes)</title>
+            <title>Version 1.0.0 (bug fixes)</title>
 <!--             <description>New version</description> -->
             <sparkle:version>1.0.0</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
