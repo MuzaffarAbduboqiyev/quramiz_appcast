@@ -13,11 +13,11 @@
             </sparkle:tags>
         </item>
         <item>
-                   <title>Version 1.0.0 (bug fixes)</title>
+                   <title>Version 1.0.8 (bug fixes)</title>
 <!--                    <description>New version</description> -->
-                   <sparkle:version>5</sparkle:version>
-                   <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
-                   <enclosure url="https://apps.apple.com/app/quramiz/id6444784268" sparkle:version="1.0.5"  sparkle:os="iOS"/>
+                   <sparkle:version>8</sparkle:version>
+                   <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+                   <enclosure url="https://apps.apple.com/app/quramiz/id6444784268" sparkle:version="1.0.8"  sparkle:os="iOS"/>
                    <sparkle:tags>
                        <sparkle:criticalUpdate />
                    </sparkle:tags>
